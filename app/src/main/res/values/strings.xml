@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="value_prompt">Choose an event</string>
+    <string-array name="value_array">
+        <item>Graduation</item>
+        <item>Christmas</item>
+        <item>New Year</item>
+        <item>Halloween</item>
+        <item>Birthday</item>
+    </string-array>
+
+</resources>
